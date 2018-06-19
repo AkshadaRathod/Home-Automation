@@ -1,1 +1,15 @@
-node_modules
+	README.md
+	css/
+	curtain.png
+	download.png
+	fan.png
+	gpio_ctrl.php
+	gulpfile.js
+	if_bulb_49734.png
+	index.html
+	index.php
+	index_demo.php
+	package-lock.json
+	package.json
+	projector.png
+	vendor/
